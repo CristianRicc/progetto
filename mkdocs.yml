@@ -1,0 +1,6 @@
+site_name: Nether
+theme:
+      name: "material"
+nav:
+      - Indice: index.md
+      - Descrizione del progetto: description.md 
